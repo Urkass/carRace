@@ -1,0 +1,120 @@
+{"frames": [
+
+{
+	"filename": "car_blue_idle.png",
+	"frame": {"x":0,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_blue_left.png",
+	"frame": {"x":131,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_blue_right.png",
+	"frame": {"x":262,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_blue_stop.png",
+	"frame": {"x":393,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_green_idle.png",
+	"frame": {"x":524,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_green_left.png",
+	"frame": {"x":655,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_green_right.png",
+	"frame": {"x":786,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_green_stop.png",
+	"frame": {"x":917,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_red_idle.png",
+	"frame": {"x":1048,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_red_left.png",
+	"frame": {"x":1179,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_red_right.png",
+	"frame": {"x":1310,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "car_red_stop.png",
+	"frame": {"x":1441,"y":0,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":131},
+	"sourceSize": {"w":131,"h":131},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "car.png",
+	"format": "RGBA8888",
+	"size": {"w":1572,"h":131},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9a9e4a41a81048ee71d52ec96e323726:cd8f98ee665e8bc727ef79027b084549:0cc8a77b70c78c003d18a01f226c6fa5$"
+}
+}
